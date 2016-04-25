@@ -1,0 +1,27 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin top by header height */
+  margin-top: 80px;
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background: url("images/body-background.png");
+}
+
+.device{
+	height: 650px;
+}
+.settings{
+	height: 150px;
+}
+.battery{
+	height: 225px;
+}
+.storage{
+	height: 225px;
+}
+.apps{
+	height: 235px;
+}
